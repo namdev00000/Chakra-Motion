@@ -294,4 +294,4 @@ The page asks Google Fonts for **Inter** (interface), **Playfair Display** (titl
 
 ## Licence
 
-No licence has been chosen yet. Add one (for example MIT) before sharing the project publicly.
+MIT licence has used for this project.
